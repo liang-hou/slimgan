@@ -2,7 +2,9 @@
 
 This is a PyTorch implementation of [Slimmable Generative Adversarial Networks](https://arxiv.org/abs/2012.05660).
 
-![](./pictures/SlimGAN_model.pdf)
+<div align=center>
+ <img src="./pictures/SlimGAN_model.pdf" align=center/>
+</div>
 
 ### Requirements
 
@@ -15,6 +17,10 @@ pip install -r requirements.txt
 
 
 ### Usage
+
+First, please enter the `examples` directory .
+
+
 
 To run the individual GANs, we give the following example script.
 
