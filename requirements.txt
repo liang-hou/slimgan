@@ -1,0 +1,17 @@
+numpy
+scipy
+requests
+torch
+tensorflow
+torchvision<2.0
+six
+matplotlib
+Pillow
+scikit-image
+pytest
+scikit-learn
+future
+pytest-cov
+pandas
+psutil
+yapf
