@@ -2,9 +2,7 @@
 
 This is a PyTorch implementation of [Slimmable Generative Adversarial Networks](https://arxiv.org/abs/2012.05660).
 
-<div align=center>
- <img src="./pictures/SlimGAN_model.pdf" align=center/>
-</div>
+![SlimGAN](./pictures/SlimGAN_model.png)
 
 ### Requirements
 
