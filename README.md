@@ -59,4 +59,4 @@ If you use this code, please cite
 
 ### Acknowledgments
 
-This repository is developed based on [Mimicry](https://github.com/kwotsin/mimicry) and [slimmable_networks](https://github.com/houliangict/slimmable_networks).
+This repository is developed based on [mimicry](https://github.com/kwotsin/mimicry) and [slimmable_networks](https://github.com/JiahuiYu/slimmable_networks).
