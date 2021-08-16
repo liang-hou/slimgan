@@ -47,11 +47,14 @@ python main.py --dataset cifar10 --arch resnet --setting G --cond --alpha 10 --s
 If you use this code, please cite
 
 ```latex
-@article{hou2020slimmable,
+@inproceedings{hou2021slimmable,
   title={Slimmable Generative Adversarial Networks},
   author={Hou, Liang and Yuan, Zehuan and Huang, Lei and Shen, Huawei and Cheng, Xueqi and Wang, Changhu},
-  journal={arXiv preprint arXiv:2012.05660},
-  year={2020}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={9},
+  pages={7746--7753},
+  year={2021}
 }
 ```
 
