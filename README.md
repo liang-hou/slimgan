@@ -1,10 +1,10 @@
-## Slimmable Generative Adversarial Networks
+# Slimmable Generative Adversarial Networks
 
 This is a PyTorch implementation of [Slimmable Generative Adversarial Networks](https://arxiv.org/abs/2012.05660).
 
 ![SlimGAN](./pictures/SlimGAN_model.png)
 
-### Requirements
+## Requirements
 
 The code has been tested running under Python 3.6.8, with the following packages installed (along with their dependencies):
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 
 
-### Usage
+## Usage
 
 First, please enter the `examples` directory .
 
@@ -42,7 +42,7 @@ python main.py --dataset cifar10 --arch resnet --setting G --cond --alpha 10 --s
 
 
 
-### Cite
+## Cite
 
 If you use this code, please cite
 
@@ -60,6 +60,6 @@ If you use this code, please cite
 
 
 
-### Acknowledgments
+## Acknowledgments
 
 This repository is developed based on [mimicry](https://github.com/kwotsin/mimicry) and [slimmable_networks](https://github.com/JiahuiYu/slimmable_networks).
